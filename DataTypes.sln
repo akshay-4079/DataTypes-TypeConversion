@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesEasy", "DataTypesEasy\DataTypesEasy.csproj", "{CDB0EC94-786F-4061-9D00-CE4C6C96394D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesMedium", "DataConversionMedium\DataTypesMedium.csproj", "{90376297-9BFB-41B0-9859-4135F493464C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesHard", "DataTypesHard\DataTypesHard.csproj", "{C1573A2B-2181-4FF9-A883-B370310DB903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB0EC94-786F-4061-9D00-CE4C6C96394D}.Debug|x86.ActiveCfg = Debug|x86
+		{CDB0EC94-786F-4061-9D00-CE4C6C96394D}.Debug|x86.Build.0 = Debug|x86
+		{CDB0EC94-786F-4061-9D00-CE4C6C96394D}.Release|x86.ActiveCfg = Release|x86
+		{CDB0EC94-786F-4061-9D00-CE4C6C96394D}.Release|x86.Build.0 = Release|x86
+		{90376297-9BFB-41B0-9859-4135F493464C}.Debug|x86.ActiveCfg = Debug|x86
+		{90376297-9BFB-41B0-9859-4135F493464C}.Debug|x86.Build.0 = Debug|x86
+		{90376297-9BFB-41B0-9859-4135F493464C}.Release|x86.ActiveCfg = Release|x86
+		{90376297-9BFB-41B0-9859-4135F493464C}.Release|x86.Build.0 = Release|x86
+		{C1573A2B-2181-4FF9-A883-B370310DB903}.Debug|x86.ActiveCfg = Debug|x86
+		{C1573A2B-2181-4FF9-A883-B370310DB903}.Debug|x86.Build.0 = Debug|x86
+		{C1573A2B-2181-4FF9-A883-B370310DB903}.Release|x86.ActiveCfg = Release|x86
+		{C1573A2B-2181-4FF9-A883-B370310DB903}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
